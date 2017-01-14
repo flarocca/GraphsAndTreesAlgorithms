@@ -1,0 +1,6 @@
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\bin\Debug\GraphsAndTreesAlgorithms.exe.config
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\bin\Debug\GraphsAndTreesAlgorithms.exe
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\bin\Debug\GraphsAndTreesAlgorithms.pdb
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\obj\Debug\GraphsAndTreesAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\obj\Debug\GraphsAndTreesAlgorithms.exe
+c:\users\facun\documents\visual studio 2015\Projects\GraphsAndTreesAlgorithms\GraphsAndTreesAlgorithms\obj\Debug\GraphsAndTreesAlgorithms.pdb
